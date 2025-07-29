@@ -1,5 +1,7 @@
 🦜 LangChain Summarizer
+
 Streamlit app that summarizes YouTube videos and websites using LangChain and Groq AI.
+
 ✨ Features
 
 📺 YouTube video summarization
